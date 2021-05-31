@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is EE58-5F4C
+
+ Directory of C:\Users\sandhya_rani\Desktop\MyProject
+
+05/31/2021  10:10 PM    <DIR>          .
+05/31/2021  10:10 PM    <DIR>          ..
+05/31/2021  10:10 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  346,127,421,440 bytes free
