@@ -3,10 +3,8 @@
 
  Directory of C:\Users\sandhya_rani\Desktop\MyProject
 
-05/31/2021  10:10 PM    <DIR>          .
-05/31/2021  10:10 PM    <DIR>          ..
-05/31/2021  10:10 PM                 0 test1.txt
+06/01/2021  03:41 PM    <DIR>          .
+06/01/2021  03:41 PM    <DIR>          ..
+06/01/2021  03:41 PM                 0 test1.txt
                1 File(s)              0 bytes
-               2 Dir(s)  346,127,421,440 bytes free
-			   
-			   Testing on 31 may- Sandhya
+               2 Dir(s)  346,041,212,928 bytes free
